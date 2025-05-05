@@ -9,5 +9,6 @@ Simulación de monitoreo de emociones a partir de servicios:
 - Google Cloud Vision API
 - Azure Face API (no disponible)
 - AssemblyAI
+- Vokaturi
 
 
