@@ -1,4 +1,5 @@
 # SimulacionME
+## Simulación del bot de Microsoft Teams para la detección de emociones a través de imagen y audio
 ## ***Desarrollado por:***
 - Juan Pablo Daza Pereira
 - Juan Sebastian Camargo Sanchez
